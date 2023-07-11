@@ -1,0 +1,18 @@
+body{
+    background-image: url(https://t3.ftcdn.net/jpg/01/63/72/22/360_F_163722279_UbYYpEfHLGfCHYBn5byvU4zlantuVCRp.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.Juan{
+    border: 5px;
+    padding: 10px;
+    position:relative; left:500px; top:2px;
+    background-color: hsl(34, 17%, 92%);
+    font-size: 25px;
+    text-align: center;
+    height: 1000px;
+    width: 800px;
+}
+h1{
+    text-decoration: underline;
+}
